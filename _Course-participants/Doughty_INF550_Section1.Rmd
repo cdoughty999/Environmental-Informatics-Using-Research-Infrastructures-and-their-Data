@@ -1,0 +1,15 @@
+
+---
+title: "Introduction"
+author: "Chris Doughty"
+date: "2023-08-19"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Introduction
+
+Hi I'm Chris Doughty. I'm an associate professor in SICCS and I will teach  INF 550. 
