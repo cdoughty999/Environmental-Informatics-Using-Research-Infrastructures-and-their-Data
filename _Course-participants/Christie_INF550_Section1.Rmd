@@ -1,0 +1,11 @@
+---
+title: "Christie_INF550_Section1"
+author: "Rowan Christie"
+date: "2023-08-30"
+output: pdf_document
+---
+
+***
+Hi everyone, my name is Rowan Christie and I'm looking forward to getting to know you all. I am a first year PhD student working with Dr. Bruce Hungate and Dr. Egbert Schwartz on a soil microbiology project that focuses on how microbial makeup and interactions affect carbon sequestration in the soil, utilizing ecoinformatics techniques. I chose this program in large part due to my interest in ecoinformatics, so I'm excited to participate in this class!
+
+***
