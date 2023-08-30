@@ -1,7 +1,0 @@
----
-title: "Intro to NEON Coding Exercises"
-author: "K Duffy"
-date: "8/5/2020"
-output: pdf_document
----
-
